@@ -1,0 +1,64 @@
+body{
+    background-image: url("img/historia.gif");
+    font-family: Arial, Helvetica, sans-serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 40%;
+    background-size: 1500px 800px;
+    background-color: #1B1B1B;
+}
+
+a{
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+text-decoration: none;
+color: rgb(255, 255, 255);
+font-weight: bold;
+}
+a:hover{
+color: rgb(255, 255, 255);
+font-weight: bold;
+ text-align: center; 
+}
+.login{
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+text-align: center; 
+}
+.atendimento{
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+text-align: center; 
+
+}
+.novidades{
+color: rgb(255, 255, 255);    
+text-align: center; 
+-webkit-text-stroke: 1px rgb(0, 0, 0);  
+}
+.qSomos{
+text-align: center;
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+
+}
+.produtos{
+text-align: center;
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+
+}
+.historico{
+text-align: center;
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+
+}
+.serviços{
+text-align: center;
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+
+}
+.equipe{
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+text-align: center;
+
+}
+h1{
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+color: rgb(255, 255, 255);
+}
